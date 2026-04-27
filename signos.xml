@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<signos>
+    <signo>
+        <dataInicio>21/03</dataInicio>
+        <dataFim>20/04</dataFim>
+        <signoNome>Áries</signoNome>
+        <descricao>Áries é um signo de energia, iniciativa e coragem. Pessoas desse signo costumam ser determinadas e gostam de novos desafios.</descricao>
+    </signo>
+
+    <signo>
+        <dataInicio>21/04</dataInicio>
+        <dataFim>20/05</dataFim>
+        <signoNome>Touro</signoNome>
+        <descricao>Touro é conhecido pela estabilidade, paciência e persistência. Pessoas desse signo costumam valorizar segurança e conforto.</descricao>
+    </signo>
+
+    <signo>
+        <dataInicio>21/05</dataInicio>
+        <dataFim>20/06</dataFim>
+        <signoNome>Gêmeos</signoNome>
+        <descricao>Gêmeos é um signo comunicativo, curioso e versátil. Pessoas desse signo gostam de aprender e trocar ideias.</descricao>
+    </signo>
+
+    <signo>
+        <dataInicio>21/06</dataInicio>
+        <dataFim>22/07</dataFim>
+        <signoNome>Câncer</signoNome>
+        <descricao>Câncer é ligado à sensibilidade, cuidado e família. Pessoas desse signo costumam ser protetoras e emocionais.</descricao>
+    </signo>
+
+    <signo>
+        <dataInicio>23/07</dataInicio>
+        <dataFim>22/08</dataFim>
+        <signoNome>Leão</signoNome>
+        <descricao>Leão é um signo de criatividade, liderança e confiança. Pessoas desse signo costumam gostar de reconhecimento.</descricao>
+    </signo>
+
+    <signo>
+        <dataInicio>23/08</dataInicio>
+        <dataFim>22/09</dataFim>
+        <signoNome>Virgem</signoNome>
+        <descricao>Virgem é conhecido pela organização, atenção aos detalhes e responsabilidade. Pessoas desse signo costumam ser práticas.</descricao>
+    </signo>
+
+    <signo>
+        <dataInicio>23/09</dataInicio>
+        <dataFim>22/10</dataFim>
+        <signoNome>Libra</signoNome>
+        <descricao>Libra é associado ao equilíbrio, harmonia e justiça. Pessoas desse signo costumam valorizar boas relações.</descricao>
+    </signo>
+
+    <signo>
+        <dataInicio>23/10</dataInicio>
+        <dataFim>21/11</dataFim>
+        <signoNome>Escorpião</signoNome>
+        <descricao>Escorpião é intenso, determinado e profundo. Pessoas desse signo costumam ser observadoras e persistentes.</descricao>
+    </signo>
+
+    <signo>
+        <dataInicio>22/11</dataInicio>
+        <dataFim>21/12</dataFim>
+        <signoNome>Sagitário</signoNome>
+        <descricao>Sagitário é ligado à liberdade, aventura e otimismo. Pessoas desse signo gostam de novas experiências.</descricao>
+    </signo>
+
+    <signo>
+        <dataInicio>22/12</dataInicio>
+        <dataFim>20/01</dataFim>
+        <signoNome>Capricórnio</signoNome>
+        <descricao>Capricórnio é conhecido pela disciplina, foco e responsabilidade. Pessoas desse signo costumam ser persistentes.</descricao>
+    </signo>
+
+    <signo>
+        <dataInicio>21/01</dataInicio>
+        <dataFim>18/02</dataFim>
+        <signoNome>Aquário</signoNome>
+        <descricao>Aquário é criativo, independente e inovador. Pessoas desse signo costumam gostar de ideias diferentes.</descricao>
+    </signo>
+
+    <signo>
+        <dataInicio>19/02</dataInicio>
+        <dataFim>20/03</dataFim>
+        <signoNome>Peixes</signoNome>
+        <descricao>Peixes é sensível, intuitivo e imaginativo. Pessoas desse signo costumam ser empáticas e sonhadoras.</descricao>
+    </signo>
+</signos>
