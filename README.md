@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="docs/tela-inicial.png" width="700"/>
+  <img src="docs/tela-inicial.jpg" width="700"/>
 </p>
 
 ---
@@ -25,12 +25,12 @@ Este projeto foi desenvolvido como atividade prática da disciplina de **Program
 
 ### 📄 Tela inicial
 <p align="center">
-  <img src="docs/tela-inicial.png" width="600"/>
+  <img src="docs/tela-inicial.jpg" width="600"/>
 </p>
 
 ### 🔮 Resultado
 <p align="center">
-  <img src="docs/resultado.png" width="600"/>
+  <img src="docs/resultado.jpg" width="600"/>
 </p>
 
 ---
